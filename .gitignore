@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+# Archivos de ios 
+.DS_STORE
+.DS_STORE
+
+#S e ignoran carpeta .vscode
+/.vscode
